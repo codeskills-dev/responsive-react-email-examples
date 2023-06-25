@@ -1,5 +1,5 @@
 {
-  "name": "responsive-react-email-demo",
+  "name": "responsive-react-email-examples",
   "version": "0.0.18",
   "private": true,
   "workspaces": [
@@ -12,6 +12,6 @@
   "dependencies": {
     "@react-email/components": "0.0.6",
     "react-email": "1.9.3",
-    "responsive-react-email": "0.0.2"
+    "responsive-react-email": "0.0.3"
   }
 }
