@@ -3789,10 +3789,15 @@ resolve@^2.0.0-next.4:
     path-parse "^1.0.7"
     supports-preserve-symlinks-flag "^1.0.0"
 
-responsive-react-email@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/responsive-react-email/-/responsive-react-email-0.0.2.tgz#956da1fc775dcfdb6f320766489bf203ff7a0a09"
-  integrity sha512-WRWuMMDooVK3cBcy0z+e0Z/LaYorRpZ+IBPTzl0cWcA0fP4uFPJlqKDWgEqYOCVAw5IyIOR893e4ELE+dogkOg==
+responsive-react-email@0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/responsive-react-email/-/responsive-react-email-0.0.4.tgz#08fb8ce35f15b650dd38aab566f93a45f6f62293"
+  integrity sha512-pEgkusO50HyndcqAAJyH9ZGwyTkzAFoj3XhQWOnKYg1xalZuQKIz/paikzJR9euPqElJEBQSnSvsOkW9QnKv1Q==
+
+responsive-react-email@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/responsive-react-email/-/responsive-react-email-0.0.5.tgz#f6e1d34314c4ce49d5267349a164f130ee74629b"
+  integrity sha512-r+Z6Yp6G3Sm9eKmttsb8GVij25rXJGN2eoQ9OfMcuVMfBfq1NdytIFLBo/6wdMW1zw+ko1FEUG/zgRyK9UuYLw==
 
 restore-cursor@^3.1.0:
   version "3.1.0"
